@@ -5,3 +5,4 @@ Pull pathology files from a public database (IICBU 2008 lymphoma), sort and conv
 Built using:
 - Python 3.6.6
 - TensorFlow version: 1.9.0
+- TensorFlow Hub
